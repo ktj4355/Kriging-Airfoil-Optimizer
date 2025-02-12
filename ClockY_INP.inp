@@ -1,0 +1,20 @@
+load Clocky.dat
+
+ppar
+N
+200
+
+
+gdes
+tset 0.165220 0.064662
+high 0.201710 0.289699
+lera 1.039793
+
+eXec
+gset
+
+
+NAME case150
+
+SAVE ModifiedAirfoil\case150.dat
+quit

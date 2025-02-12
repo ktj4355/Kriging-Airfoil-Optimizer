@@ -1,0 +1,20 @@
+load sd7062.dat
+
+ppar
+N
+200
+
+
+gdes
+tset 0.128160 0.085104
+high 0.270592 0.478047
+lera 0.915849
+
+eXec
+gset
+
+
+NAME case100
+
+SAVE ModifiedAirfoil\case100.dat
+quit

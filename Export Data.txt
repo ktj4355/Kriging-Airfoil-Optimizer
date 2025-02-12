@@ -1,0 +1,41 @@
+Kriging Model Report 
+====================================================
+	Model :	Kriging (DACE) Model
+
+	1 point Cross Validation Error (Nomalized)
+		L/D Model :	0
+		CL Model  :	0
+		Cm Model  :	0
+
+	Design Point Value
+		Maximum L/D  :	53.636852
+		CL at 0 AOA  :	0.700000
+		Maximum Cm   :	0.169541
+
+	Optimized Design Value
+		Max Camber 	 at Position 	 Max Thickness 	 at Position 	 LE Circle Ratio
+	----------------------------------------------------------------------------------
+		7.737270 	 40.508867 		 12.540129 		 17.142892 		 0.851464
+
+
+
+Optimizing RAW Data 
+====================================================
+
+
+LD MAX optimization (Kriging Model)
+	Maximum L/D   : 53.6369
+	CL at point   : 0.7
+	CmMax         : 0.16954
+	x1(Nomalized) : 0.77504
+	x2(Nomalized) : 0.55884
+	x3(Nomalized) : 0.36823
+	x4(Nomalized) : 0.21928
+	x5(Nomalized) : 0.12091
+	x1(Real)      : 7.7373
+	x2(Real)      : 40.5089
+	x3(Real)      : 12.5401
+	x4(Real)      : 17.1429
+	x5(Real)      : 0.85146
+====================================================
+

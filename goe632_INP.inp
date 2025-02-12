@@ -1,0 +1,20 @@
+load goe632.dat
+
+ppar
+N
+200
+
+
+gdes
+tset 0.154865 0.082891
+high 0.177601 0.370935
+lera 0.976696
+
+eXec
+gset
+
+
+NAME case50
+
+SAVE ModifiedAirfoil\case50.dat
+quit

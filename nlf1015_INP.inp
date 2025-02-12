@@ -1,0 +1,20 @@
+load nlf1015.dat
+
+ppar
+N
+200
+
+
+gdes
+tset 0.108983 0.041339
+high 0.312806 0.567586
+lera 1.106547
+
+eXec
+gset
+
+
+NAME case100
+
+SAVE ModifiedAirfoil\case100.dat
+quit

@@ -1,0 +1,20 @@
+load sd7062.dat
+
+ppar
+N
+200
+
+
+gdes
+tset 0.125401 0.077373
+high 0.171429 0.405089
+lera 0.851464
+
+eXec
+gset
+
+
+NAME output_krig_airfoil
+
+SAVE OUTPUT DATA\output_krig_airfoil.dat
+quit
